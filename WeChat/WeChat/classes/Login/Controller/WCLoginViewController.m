@@ -30,6 +30,7 @@
     
     [self.loginBtn setN_BG:@"fts_green_btn" H_BG:@"fts_green_btn_HL"];
     
+    NSLog(@"hello");
     
 }
 - (IBAction)loginBtnAction:(id)sender {
